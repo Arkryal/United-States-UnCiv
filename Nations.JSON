@@ -1,0 +1,57 @@
+[
+  {
+  	"name": "New York",
+  	"leaderName": "Franklin D. Roosevelt",
+  	"adjective": ["New Yorker"],
+  	"startBias": ["Coast"],
+  	"preferredVictoryType": "Cultural",
+  
+  	"startIntroPart1": "Hey there",
+  	"startIntroPart2": "Welcome to the Empire State!",
+  
+  	"declaringWar": "Prepare to face the might of New York!",
+  	"attacked": "You think you can take on New York?",
+  	"defeated": "This ain't over yet...",
+  	"introduction": "Greetings from the greatest state in the union.",
+  
+  	"neutralHello": "How's it going?",
+  	"neutralLetsHearIt": ["What's up?","Tell me more.","Go ahead."],
+  	"neutralNo": ["No way.","Not happening.","I don't think so."],
+  	"neutralYes": ["Sure thing.","Absolutely.","You got it."],
+  
+  	"hateHello": "What do you want?",
+  	"hateLetsHearIt": ["Spit it out.","What now?","Go on."],
+  	"hateNo": ["No chance!","Forget about it!","Not a chance."],
+  	"hateYes": ["Fine.","Alright then.","If I must..."],
+  
+  	"afterPeace": "A wise choice.",
+  	"tradeRequest": "You know it's a good deal.",
+  
+  	"outerColor": [0, 123, 255],  // A random blue color
+  	"innerColor": [255, 223, 0],  // A contrasting yellow color
+  	"uniqueName": "Empire State",
+  	"uniques": ["[+2 Culture] from every [City with a Landmark]", "[+1 Happiness] from every [City with a Wonder]", "Starts with [Masonry]", "Starts with [Construction]"],
+  	"cities": [
+  		"New York City",
+  		"Buffalo",
+  		"Rochester",
+  		"Yonkers",
+  		"Syracuse",
+  		"Albany",
+  		"New Rochelle",
+  		"Mount Vernon",
+  		"Schenectady",
+  		"Utica",
+  		"White Plains",
+  		"Hempstead",
+  		"Troy",
+  		"Niagara Falls",
+  		"Binghamton",
+  		"Freeport",
+  		"Valley Stream",
+  		"Long Beach",
+  		"Poughkeepsie",
+  		"Kingston"
+  	]
+  }
+]
