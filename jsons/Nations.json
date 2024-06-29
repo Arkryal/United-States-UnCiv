@@ -496,7 +496,7 @@
 	"leaderName": "Jeb Bush",
 	"adjective": ["Floridian"],
 	"startBias": ["Coast"],
-	"preferredVictoryType": "Tourism",
+	"preferredVictoryType": "Culture",
 
 	"startIntroPart1": "Hello",
 	"startIntroPart2": "Welcome to the Sunshine State!",
@@ -522,7 +522,7 @@
 	"outerColor": [255, 140, 0],  // A random orange color
 	"innerColor": [0, 204, 204],  // A contrasting teal color
 	"uniqueName": "The Sunshine State",
-	"uniques": ["[+2 Tourism] from every [Coastal City]", "[+1 Happiness] from every [City with a Resort]", "Starts with [Sailing]", "Starts with [Currency]"],
+	"uniques": ["[+2 Culture] from every [Coastal City]", "[+1 Happiness] from every [City with a Resort]", "Starts with [Sailing]", "Starts with [Currency]"],
 	"cities": [
 		"Miami",
 		"Orlando",
@@ -606,7 +606,7 @@
 	"leaderName": "David Ige",
 	"adjective": ["Hawaiian"],
 	"startBias": ["Coast"],
-	"preferredVictoryType": "Tourism",
+	"preferredVictoryType": "Culture",
 
 	"startIntroPart1": "Aloha",
 	"startIntroPart2": "Welcome to the Aloha State!",
@@ -632,7 +632,7 @@
 	"outerColor": [0, 51, 102],  // A random dark blue color
 	"innerColor": [255, 255, 0],  // A contrasting yellow color
 	"uniqueName": "The Aloha State",
-	"uniques": ["[+2 Tourism] from every [Coastal City]", "[+1 Happiness] from every [City with a Resort]", "Starts with [Sailing]", "Starts with [Agriculture]"],
+	"uniques": ["[+2 Culture] from every [Coastal City]", "[+1 Happiness] from every [City with a Resort]", "Starts with [Sailing]", "Starts with [Agriculture]"],
 	"cities": [
 		"Honolulu",
 		"Hilo",
