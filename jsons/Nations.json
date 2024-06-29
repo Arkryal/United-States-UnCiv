@@ -30,7 +30,7 @@
   	"outerColor": [0, 123, 255],  // A random blue color
   	"innerColor": [255, 223, 0],  // A contrasting yellow color
   	"uniqueName": "Empire State",
-  	"uniques": ["[+2 Culture] from every [City with a Landmark]", "[+1 Happiness] from every [City with a Wonder]", "Starts with [Masonry]", "Starts with [Construction]"],
+  	"uniques": ["[+30 Culture] from every [City with a Landmark]", "[+10 Happiness] from every [City with a Wonder]", "Starts with [Masonry]", "Starts with [Construction]"],
   	"cities": [
   		"New York City",
   		"Buffalo",
@@ -85,7 +85,7 @@
   	"outerColor": [0, 128, 0],  // A random green color
   	"innerColor": [255, 255, 255],  // A contrasting white color
   	"uniqueName": "Heart of Dixie",
-  	"uniques": ["[+2 Food] from every [Farm]", "[+1 Production] from every [City with a Mine]", "Starts with [Agriculture]", "Starts with [Mining]"],
+  	"uniques": ["[+2 Food] from every [Farm]", "[+10 Production] from every [City with a Mine]", "Starts with [Mining]"],
   	"cities": [
   		"Birmingham",
   		"Montgomery",
@@ -140,7 +140,7 @@
 	"outerColor": [0, 123, 255],  // A random blue color
 	"innerColor": [255, 0, 0],  // A contrasting red color
 	"uniqueName": "The Natural State",
-	"uniques": ["[+2 Production] from every [City with a Forest]", "[+1 Happiness] from every [City with a National Park]", "Starts with [Forestry]", "Starts with [Agriculture]"],
+	"uniques": ["[+5 Production] from every [City]", "[+1 Happiness] from every [City]"],
 	"cities": [
 		"Little Rock",
 		"Fort Smith",
@@ -194,7 +194,7 @@
 	"outerColor": [0, 0, 255],  // A random blue color
 	"innerColor": [255, 255, 255],  // A contrasting white color
 	"uniqueName": "The Last Frontier",
-	"uniques": ["[+2 Production] from every [City with a Harbor]", "[+1 Happiness] from every [City with a Natural Wonder]", "Starts with [Fishing]", "Starts with [Animal Husbandry]"],
+	"uniques": ["[+3 Production] from every [City with a Harbor]", "[+5 Happiness] from every [City with a Natural Wonder]", "Starts with [Fishing]", "Starts with [Animal Husbandry]"],
 	"cities": [
 		"Anchorage",
 		"Fairbanks",
@@ -248,7 +248,7 @@
 	"outerColor": [220, 20, 60],  // A random crimson color
 	"innerColor": [255, 223, 0],  // A contrasting yellow color
 	"uniqueName": "The Grand Canyon State",
-	"uniques": ["[+2 Science] from every [Desert Tile]", "[+1 Culture] from every [City with a Monument]", "Starts with [Mining]", "Starts with [Astronomy]"],
+	"uniques": ["[+2 Science] from every [Desert]", "[+5 Culture] from every [City with a Monument]", "Starts with [Mining]", "Starts with [Astronomy]"],
 	"cities": [
 		"Phoenix",
 		"Tucson",
@@ -302,7 +302,7 @@
 	"outerColor": [255, 140, 0],  // A random orange color
 	"innerColor": [0, 0, 255],  // A contrasting blue color
 	"uniqueName": "The Golden State",
-	"uniques": ["[+2 Culture] from every [Coastal City]", "[+1 Happiness] from every [City with a Landmark]", "Starts with [Agriculture]", "Starts with [Sailing]"],
+	"uniques": ["[+4 Culture] from every [Coastal City]", "[+1 Happiness] from every [City with a Landmark]", "Starts with [Sailing]"],
 	"cities": [
 		"Los Angeles",
 		"San Francisco",
@@ -357,7 +357,7 @@
 	"outerColor": [0, 102, 204],  // A random blue color
 	"innerColor": [255, 215, 0],  // A contrasting gold color
 	"uniqueName": "The Centennial State",
-	"uniques": ["[+2 Science] from every [Mountain Tile]", "[+1 Culture] from every [City with a National Park]", "Starts with [Mining]", "Starts with [Astronomy]"],
+	"uniques": ["[+2 Science] from every [Mountain]", "[+1 Culture] from every [City]", "Starts with [Mining]", "Starts with [Astronomy]"],
 	"cities": [
 		"Denver",
 		"Colorado Springs",
@@ -412,7 +412,7 @@
 	"outerColor": [0, 51, 102],  // A random dark blue color
 	"innerColor": [255, 255, 255],  // A contrasting white color
 	"uniqueName": "The Constitution State",
-	"uniques": ["[+2 Culture] from every [City with a Historic Site]", "[+1 Happiness] from every [City with a Museum]", "Starts with [Writing]", "Starts with [Education]"],
+	"uniques": ["[+2 Culture] from every [City]", "[+2 Happiness] from every [City with a Museum]", "Starts with [Writing]", "Starts with [Education]"],
 	"cities": [
 		"Bridgeport",
 		"New Haven",
@@ -441,7 +441,7 @@
 	"leaderName": "John Carney",
 	"adjective": ["Delawarean"],
 	"startBias": ["Coast"],
-	"preferredVictoryType": "Economic",
+	"preferredVictoryType": "Domination",
 
 	"startIntroPart1": "Hello",
 	"startIntroPart2": "Welcome to the First State!",
@@ -522,7 +522,7 @@
 	"outerColor": [255, 140, 0],  // A random orange color
 	"innerColor": [0, 204, 204],  // A contrasting teal color
 	"uniqueName": "The Sunshine State",
-	"uniques": ["[+2 Culture] from every [Coastal City]", "[+1 Happiness] from every [City with a Resort]", "Starts with [Sailing]", "Starts with [Currency]"],
+	"uniques": ["[+2 Culture] from every [Coastal City]", "[+4 Happiness] from every [City]", "Starts with [Sailing]", "Starts with [Currency]"],
 	"cities": [
 		"Miami",
 		"Orlando",
