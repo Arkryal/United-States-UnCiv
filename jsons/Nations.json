@@ -217,7 +217,608 @@
 		"Petersburg",
 		"Cordova"
 	]
+},{
+	"name": "Arizona",
+	"leaderName": "Barry Goldwater",
+	"adjective": ["Arizonan"],
+	"startBias": ["Desert"],
+	"preferredVictoryType": "Scientific",
+
+	"startIntroPart1": "Howdy",
+	"startIntroPart2": "Welcome to the Grand Canyon State!",
+
+	"declaringWar": "You've stirred up a desert storm!",
+	"attacked": "We'll stand strong!",
+	"defeated": "We'll rise again...",
+	"introduction": "Greetings from the Grand Canyon State.",
+
+	"neutralHello": "Hello there.",
+	"neutralLetsHearIt": ["What's up?","Tell me more.","Go ahead."],
+	"neutralNo": ["No way.","Not happening.","I don't think so."],
+	"neutralYes": ["Sure thing.","Absolutely.","You got it."],
+
+	"hateHello": "What do you want?",
+	"hateLetsHearIt": ["Spit it out.","What now?","Go on."],
+	"hateNo": ["No chance!","Forget about it!","Not a chance."],
+	"hateYes": ["Fine.","Alright then.","If I must..."],
+
+	"afterPeace": "A wise choice.",
+	"tradeRequest": "You know it's a good deal.",
+
+	"outerColor": [220, 20, 60],  // A random crimson color
+	"innerColor": [255, 223, 0],  // A contrasting yellow color
+	"uniqueName": "The Grand Canyon State",
+	"uniques": ["[+2 Science] from every [Desert Tile]", "[+1 Culture] from every [City with a Monument]", "Starts with [Mining]", "Starts with [Astronomy]"],
+	"cities": [
+		"Phoenix",
+		"Tucson",
+		"Mesa",
+		"Chandler",
+		"Scottsdale",
+		"Glendale",
+		"Gilbert",
+		"Tempe",
+		"Peoria",
+		"Surprise",
+		"Yuma",
+		"Avondale",
+		"Flagstaff",
+		"Goodyear",
+		"Lake Havasu City",
+		"Casa Grande",
+		"Sierra Vista",
+		"Maricopa",
+		"Oro Valley",
+		"Prescott"
+	]
+},{
+	"name": "California",
+	"leaderName": "Ronald Reagan",
+	"adjective": ["Californian"],
+	"startBias": ["Coast"],
+	"preferredVictoryType": "Cultural",
+
+	"startIntroPart1": "Hey there",
+	"startIntroPart2": "Welcome to the Golden State!",
+
+	"declaringWar": "You've chosen the wrong state to mess with!",
+	"attacked": "California will prevail!",
+	"defeated": "This isn't the end...",
+	"introduction": "Greetings from the Golden State.",
+
+	"neutralHello": "Hello.",
+	"neutralLetsHearIt": ["What's happening?","Tell me more.","Go ahead."],
+	"neutralNo": ["No way.","Not happening.","I don't think so."],
+	"neutralYes": ["Sure thing.","Absolutely.","You got it."],
+
+	"hateHello": "What do you want?",
+	"hateLetsHearIt": ["Spit it out.","What now?","Go on."],
+	"hateNo": ["No chance!","Forget about it!","Not a chance."],
+	"hateYes": ["Fine.","Alright then.","If I must..."],
+
+	"afterPeace": "A wise decision.",
+	"tradeRequest": "You know it's a good deal.",
+
+	"outerColor": [255, 140, 0],  // A random orange color
+	"innerColor": [0, 0, 255],  // A contrasting blue color
+	"uniqueName": "The Golden State",
+	"uniques": ["[+2 Culture] from every [Coastal City]", "[+1 Happiness] from every [City with a Landmark]", "Starts with [Agriculture]", "Starts with [Sailing]"],
+	"cities": [
+		"Los Angeles",
+		"San Francisco",
+		"San Diego",
+		"San Jose",
+		"Sacramento",
+		"Fresno",
+		"Long Beach",
+		"Oakland",
+		"Bakersfield",
+		"Anaheim",
+		"Santa Ana",
+		"Riverside",
+		"Stockton",
+		"Irvine",
+		"Chula Vista",
+		"Fremont",
+		"San Bernardino",
+		"Modesto",
+		"Oxnard",
+		"Fontana"
+	]
+},
+{
+	"name": "Colorado",
+	"leaderName": "John Hickenlooper",
+	"adjective": ["Coloradan"],
+	"startBias": ["Hills"],
+	"preferredVictoryType": "Scientific",
+
+	"startIntroPart1": "Hello",
+	"startIntroPart2": "Welcome to the Centennial State!",
+
+	"declaringWar": "You've underestimated the Rockies!",
+	"attacked": "We will stand tall!",
+	"defeated": "This isn't the end...",
+	"introduction": "Greetings from the Centennial State.",
+
+	"neutralHello": "Hi there.",
+	"neutralLetsHearIt": ["What's up?","Tell me more.","Go ahead."],
+	"neutralNo": ["No way.","Not happening.","I don't think so."],
+	"neutralYes": ["Sure thing.","Absolutely.","You got it."],
+
+	"hateHello": "What do you want?",
+	"hateLetsHearIt": ["Spit it out.","What now?","Go on."],
+	"hateNo": ["No chance!","Forget about it!","Not a chance."],
+	"hateYes": ["Fine.","Alright then.","If I must..."],
+
+	"afterPeace": "A wise decision.",
+	"tradeRequest": "You know it's a good deal.",
+
+	"outerColor": [0, 102, 204],  // A random blue color
+	"innerColor": [255, 215, 0],  // A contrasting gold color
+	"uniqueName": "The Centennial State",
+	"uniques": ["[+2 Science] from every [Mountain Tile]", "[+1 Culture] from every [City with a National Park]", "Starts with [Mining]", "Starts with [Astronomy]"],
+	"cities": [
+		"Denver",
+		"Colorado Springs",
+		"Aurora",
+		"Fort Collins",
+		"Lakewood",
+		"Thornton",
+		"Arvada",
+		"Westminster",
+		"Pueblo",
+		"Centennial",
+		"Boulder",
+		"Greeley",
+		"Longmont",
+		"Loveland",
+		"Grand Junction",
+		"Broomfield",
+		"Castle Rock",
+		"Commerce City",
+		"Parker",
+		"Littleton"
+	]
+},
+{
+	"name": "Connecticut",
+	"leaderName": "Ella Grasso",
+	"adjective": ["Connecticutian"],
+	"startBias": ["Coast"],
+	"preferredVictoryType": "Cultural",
+
+	"startIntroPart1": "Hello",
+	"startIntroPart2": "Welcome to the Constitution State!",
+
+	"declaringWar": "You've made a grave mistake!",
+	"attacked": "We will persevere!",
+	"defeated": "This isn't the end...",
+	"introduction": "Greetings from the Constitution State.",
+
+	"neutralHello": "Hi there.",
+	"neutralLetsHearIt": ["What's happening?","Tell me more.","Go ahead."],
+	"neutralNo": ["No way.","Not happening.","I don't think so."],
+	"neutralYes": ["Sure thing.","Absolutely.","You got it."],
+
+	"hateHello": "What do you want?",
+	"hateLetsHearIt": ["Spit it out.","What now?","Go on."],
+	"hateNo": ["No chance!","Forget about it!","Not a chance."],
+	"hateYes": ["Fine.","Alright then.","If I must..."],
+
+	"afterPeace": "A wise decision.",
+	"tradeRequest": "You know it's a good deal.",
+
+	"outerColor": [0, 51, 102],  // A random dark blue color
+	"innerColor": [255, 255, 255],  // A contrasting white color
+	"uniqueName": "The Constitution State",
+	"uniques": ["[+2 Culture] from every [City with a Historic Site]", "[+1 Happiness] from every [City with a Museum]", "Starts with [Writing]", "Starts with [Education]"],
+	"cities": [
+		"Bridgeport",
+		"New Haven",
+		"Stamford",
+		"Hartford",
+		"Waterbury",
+		"Norwalk",
+		"Danbury",
+		"New Britain",
+		"Meriden",
+		"Bristol",
+		"West Haven",
+		"Milford",
+		"Middletown",
+		"Norwich",
+		"Shelton",
+		"Torrington",
+		"New London",
+		"Ansonia",
+		"Derby",
+		"Groton"
+	]
+},
+{
+	"name": "Delaware",
+	"leaderName": "John Carney",
+	"adjective": ["Delawarean"],
+	"startBias": ["Coast"],
+	"preferredVictoryType": "Economic",
+
+	"startIntroPart1": "Hello",
+	"startIntroPart2": "Welcome to the First State!",
+
+	"declaringWar": "You've made a huge mistake!",
+	"attacked": "We will stand strong!",
+	"defeated": "This isn't the end...",
+	"introduction": "Greetings from the First State.",
+
+	"neutralHello": "Hi there.",
+	"neutralLetsHearIt": ["What's happening?","Tell me more.","Go ahead."],
+	"neutralNo": ["No way.","Not happening.","I don't think so."],
+	"neutralYes": ["Sure thing.","Absolutely.","You got it."],
+
+	"hateHello": "What do you want?",
+	"hateLetsHearIt": ["Spit it out.","What now?","Go on."],
+	"hateNo": ["No chance!","Forget about it!","Not a chance."],
+	"hateYes": ["Fine.","Alright then.","If I must..."],
+
+	"afterPeace": "A wise decision.",
+	"tradeRequest": "You know it's a good deal.",
+
+	"outerColor": [0, 0, 204],  // A random dark blue color
+	"innerColor": [255, 223, 0],  // A contrasting yellow color
+	"uniqueName": "The First State",
+	"uniques": ["[+2 Gold] from every [Trade Route]", "[+1 Production] from every [City with a Harbor]", "Starts with [Sailing]", "Starts with [Currency]"],
+	"cities": [
+		"Wilmington",
+		"Dover",
+		"Newark",
+		"Middletown",
+		"Smyrna",
+		"Milford",
+		"Seaford",
+		"Georgetown",
+		"Elsmere",
+		"New Castle",
+		"Millsboro",
+		"Laurel",
+		"Harrington",
+		"Camden",
+		"Claymont",
+		"Lewes",
+		"Milton",
+		"Selbyville",
+		"Bridgeville",
+		"Ocean View"
+	]
+},
+{
+	"name": "Florida",
+	"leaderName": "Jeb Bush",
+	"adjective": ["Floridian"],
+	"startBias": ["Coast"],
+	"preferredVictoryType": "Tourism",
+
+	"startIntroPart1": "Hello",
+	"startIntroPart2": "Welcome to the Sunshine State!",
+
+	"declaringWar": "You've stirred up a hurricane!",
+	"attacked": "Florida will fight back!",
+	"defeated": "This isn't the end...",
+	"introduction": "Greetings from the Sunshine State.",
+
+	"neutralHello": "Hi there.",
+	"neutralLetsHearIt": ["What's going on?","Tell me more.","Go ahead."],
+	"neutralNo": ["No way.","Not happening.","I don't think so."],
+	"neutralYes": ["Sure thing.","Absolutely.","You got it."],
+
+	"hateHello": "What do you want?",
+	"hateLetsHearIt": ["Spit it out.","What now?","Go on."],
+	"hateNo": ["No chance!","Forget about it!","Not a chance."],
+	"hateYes": ["Fine.","Alright then.","If I must..."],
+
+	"afterPeace": "A wise decision.",
+	"tradeRequest": "You know it's a good deal.",
+
+	"outerColor": [255, 140, 0],  // A random orange color
+	"innerColor": [0, 204, 204],  // A contrasting teal color
+	"uniqueName": "The Sunshine State",
+	"uniques": ["[+2 Tourism] from every [Coastal City]", "[+1 Happiness] from every [City with a Resort]", "Starts with [Sailing]", "Starts with [Currency]"],
+	"cities": [
+		"Miami",
+		"Orlando",
+		"Tampa",
+		"Jacksonville",
+		"Tallahassee",
+		"Fort Lauderdale",
+		"Sarasota",
+		"St. Petersburg",
+		"Naples",
+		"West Palm Beach",
+		"Gainesville",
+		"Pensacola",
+		"Daytona Beach",
+		"Fort Myers",
+		"Clearwater",
+		"Coral Springs",
+		"Hollywood",
+		"Boca Raton",
+		"Delray Beach",
+		"Panama City"
+	]
+},
+{
+	"name": "Georgia",
+	"leaderName": "Jimmy Carter",
+	"adjective": ["Georgian"],
+	"startBias": ["Plains"],
+	"preferredVictoryType": "Agricultural",
+
+	"startIntroPart1": "Hello",
+	"startIntroPart2": "Welcome to the Peach State!",
+
+	"declaringWar": "You've picked the wrong fight!",
+	"attacked": "We'll stand strong!",
+	"defeated": "This isn't the end...",
+	"introduction": "Greetings from the Peach State.",
+
+	"neutralHello": "Hi there.",
+	"neutralLetsHearIt": ["What's going on?","Tell me more.","Go ahead."],
+	"neutralNo": ["No way.","Not happening.","I don't think so."],
+	"neutralYes": ["Sure thing.","Absolutely.","You got it."],
+
+	"hateHello": "What do you want?",
+	"hateLetsHearIt": ["Spit it out.","What now?","Go on."],
+	"hateNo": ["No chance!","Forget about it!","Not a chance."],
+	"hateYes": ["Fine.","Alright then.","If I must..."],
+
+	"afterPeace": "A wise decision.",
+	"tradeRequest": "You know it's a good deal.",
+
+	"outerColor": [0, 128, 0],  // A random green color
+	"innerColor": [255, 165, 0],  // A contrasting orange color
+	"uniqueName": "The Peach State",
+	"uniques": ["[+2 Food] from every [Farm]", "[+1 Happiness] from every [City with a Plantation]", "Starts with [Agriculture]", "Starts with [Irrigation]"],
+	"cities": [
+		"Atlanta",
+		"Augusta",
+		"Columbus",
+		"Macon",
+		"Savannah",
+		"Athens",
+		"Sandy Springs",
+		"Roswell",
+		"Albany",
+		"Johns Creek",
+		"Warner Robins",
+		"Alpharetta",
+		"Marietta",
+		"Valdosta",
+		"Smyrna",
+		"Dunwoody",
+		"Rome",
+		"Peachtree City",
+		"Gainesville",
+		"East Point"
+	]
+},
+{
+	"name": "Hawaii",
+	"leaderName": "David Ige",
+	"adjective": ["Hawaiian"],
+	"startBias": ["Coast"],
+	"preferredVictoryType": "Tourism",
+
+	"startIntroPart1": "Aloha",
+	"startIntroPart2": "Welcome to the Aloha State!",
+
+	"declaringWar": "You've awakened the fury of the islands!",
+	"attacked": "Hawaii will stand strong!",
+	"defeated": "This isn't the end...",
+	"introduction": "Greetings from the Aloha State.",
+
+	"neutralHello": "Aloha.",
+	"neutralLetsHearIt": ["What's happening?","Tell me more.","Go ahead."],
+	"neutralNo": ["No way.","Not happening.","I don't think so."],
+	"neutralYes": ["Sure thing.","Absolutely.","You got it."],
+
+	"hateHello": "What do you want?",
+	"hateLetsHearIt": ["Spit it out.","What now?","Go on."],
+	"hateNo": ["No chance!","Forget about it!","Not a chance."],
+	"hateYes": ["Fine.","Alright then.","If I must..."],
+
+	"afterPeace": "A wise decision.",
+	"tradeRequest": "You know it's a good deal.",
+
+	"outerColor": [0, 51, 102],  // A random dark blue color
+	"innerColor": [255, 255, 0],  // A contrasting yellow color
+	"uniqueName": "The Aloha State",
+	"uniques": ["[+2 Tourism] from every [Coastal City]", "[+1 Happiness] from every [City with a Resort]", "Starts with [Sailing]", "Starts with [Agriculture]"],
+	"cities": [
+		"Honolulu",
+		"Hilo",
+		"Kailua",
+		"Kapolei",
+		"Kaneohe",
+		"Wailuku",
+		"Kihei",
+		"Koloa",
+		"Lahaina",
+		"Kapa'a",
+		"Pearl City",
+		"Wahiawa",
+		"Waimea",
+		"Waipahu",
+		"Mililani",
+		"Makakilo",
+		"Ewa Beach",
+		"Hanalei",
+		"Hana",
+		"Lanai City"
+	]
+},
+{
+	"name": "Idaho",
+	"leaderName": "Cecil Andrus",
+	"adjective": ["Idahoan"],
+	"startBias": ["Plains"],
+	"preferredVictoryType": "Agricultural",
+
+	"startIntroPart1": "Hello",
+	"startIntroPart2": "Welcome to the Gem State!",
+
+	"declaringWar": "You've made a huge mistake!",
+	"attacked": "Idaho will stand strong!",
+	"defeated": "This isn't the end...",
+	"introduction": "Greetings from the Gem State.",
+
+	"neutralHello": "Hi there.",
+	"neutralLetsHearIt": ["What's happening?","Tell me more.","Go ahead."],
+	"neutralNo": ["No way.","Not happening.","I don't think so."],
+	"neutralYes": ["Sure thing.","Absolutely.","You got it."],
+
+	"hateHello": "What do you want?",
+	"hateLetsHearIt": ["Spit it out.","What now?","Go on."],
+	"hateNo": ["No chance!","Forget about it!","Not a chance."],
+	"hateYes": ["Fine.","Alright then.","If I must..."],
+
+	"afterPeace": "A wise decision.",
+	"tradeRequest": "You know it's a good deal.",
+
+	"outerColor": [0, 102, 204],  // A random blue color
+	"innerColor": [255, 204, 0],  // A contrasting yellow color
+	"uniqueName": "The Gem State",
+	"uniques": ["[+2 Food] from every [Farm]", "[+1 Production] from every [City with a Mine]", "Starts with [Agriculture]", "Starts with [Mining]"],
+	"cities": [
+		"Boise",
+		"Meridian",
+		"Nampa",
+		"Idaho Falls",
+		"Pocatello",
+		"Caldwell",
+		"Coeur d'Alene",
+		"Twin Falls",
+		"Rexburg",
+		"Eagle",
+		"Moscow",
+		"Post Falls",
+		"Mountain Home",
+		"Blackfoot",
+		"Chubbuck",
+		"Ammon",
+		"Lewiston",
+		"Hayden",
+		"Kuna",
+		"Hailey"
+	]
+},
+{
+	"name": "Illinois",
+	"leaderName": "Abraham Lincoln",
+	"adjective": ["Illinoisan"],
+	"startBias": ["Plains"],
+	"preferredVictoryType": "Cultural",
+
+	"startIntroPart1": "Hello",
+	"startIntroPart2": "Welcome to the Land of Lincoln!",
+
+	"declaringWar": "You've picked the wrong fight!",
+	"attacked": "We will stand strong!",
+	"defeated": "This isn't the end...",
+	"introduction": "Greetings from the Land of Lincoln.",
+
+	"neutralHello": "Hi there.",
+	"neutralLetsHearIt": ["What's happening?","Tell me more.","Go ahead."],
+	"neutralNo": ["No way.","Not happening.","I don't think so."],
+	"neutralYes": ["Sure thing.","Absolutely.","You got it."],
+
+	"hateHello": "What do you want?",
+	"hateLetsHearIt": ["Spit it out.","What now?","Go on."],
+	"hateNo": ["No chance!","Forget about it!","Not a chance."],
+	"hateYes": ["Fine.","Alright then.","If I must..."],
+
+	"afterPeace": "A wise decision.",
+	"tradeRequest": "You know it's a good deal.",
+
+	"outerColor": [0, 51, 153],  // A random dark blue color
+	"innerColor": [255, 255, 0],  // A contrasting yellow color
+	"uniqueName": "The Land of Lincoln",
+	"uniques": ["[+2 Culture] from every [City with a Museum]", "[+1 Production] from every [City with a Factory]", "Starts with [Agriculture]", "Starts with [Writing]"],
+	"cities": [
+		"Chicago",
+		"Aurora",
+		"Naperville",
+		"Joliet",
+		"Rockford",
+		"Springfield",
+		"Elgin",
+		"Peoria",
+		"Champaign",
+		"Waukegan",
+		"Cicero",
+		"Bloomington",
+		"Arlington Heights",
+		"Evanston",
+		"Decatur",
+		"Schaumburg",
+		"Bolingbrook",
+		"Palatine",
+		"Skokie",
+		"Des Plaines"
+	]
+},
+{
+	"name": "Indiana",
+	"leaderName": "Robert D. Orr",
+	"adjective": ["Hoosier"],
+	"startBias": ["Plains"],
+	"preferredVictoryType": "Industrial",
+
+	"startIntroPart1": "Hello",
+	"startIntroPart2": "Welcome to the Hoosier State!",
+
+	"declaringWar": "You've made a big mistake!",
+	"attacked": "Indiana will fight back!",
+	"defeated": "This isn't the end...",
+	"introduction": "Greetings from the Hoosier State.",
+
+	"neutralHello": "Hi there.",
+	"neutralLetsHearIt": ["What's going on?","Tell me more.","Go ahead."],
+	"neutralNo": ["No way.","Not happening.","I don't think so."],
+	"neutralYes": ["Sure thing.","Absolutely.","You got it."],
+
+	"hateHello": "What do you want?",
+	"hateLetsHearIt": ["Spit it out.","What now?","Go on."],
+	"hateNo": ["No chance!","Forget about it!","Not a chance."],
+	"hateYes": ["Fine.","Alright then.","If I must..."],
+
+	"afterPeace": "A wise decision.",
+	"tradeRequest": "You know it's a good deal.",
+
+	"outerColor": [0, 51, 204],  // A random dark blue color
+	"innerColor": [255, 255, 255],  // A contrasting white color
+	"uniqueName": "The Hoosier State",
+	"uniques": ["[+2 Production] from every [City with a Factory]", "[+1 Happiness] from every [City with a Stadium]", "Starts with [Agriculture]", "Starts with [Engineering]"],
+	"cities": [
+		"Indianapolis",
+		"Fort Wayne",
+		"Evansville",
+		"South Bend",
+		"Carmel",
+		"Bloomington",
+		"Hammond",
+		"Gary",
+		"Lafayette",
+		"Fishers",
+		"Muncie",
+		"Terre Haute",
+		"Noblesville",
+		"Kokomo",
+		"Anderson",
+		"Greenwood",
+		"Elkhart",
+		"Mishawaka",
+		"Lawrence",
+		"Jeffersonville"
+	]
 }
-
-
 ]
