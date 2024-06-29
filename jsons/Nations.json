@@ -53,5 +53,171 @@
   		"Poughkeepsie",
   		"Kingston"
   	]
-  }
+  },
+  {
+  	"name": "Alabama",
+  	"leaderName": "George Wallace",
+  	"adjective": ["Alabamian"],
+  	"startBias": ["Plains"],
+  	"preferredVictoryType": "Cultural",
+  
+  	"startIntroPart1": "Howdy",
+  	"startIntroPart2": "Welcome to Sweet Home Alabama!",
+  
+  	"declaringWar": "You just made a big mistake!",
+  	"attacked": "We're tougher than we look.",
+  	"defeated": "This ain't the end...",
+  	"introduction": "Greetings from the Heart of Dixie.",
+  
+  	"neutralHello": "Hey there.",
+  	"neutralLetsHearIt": ["What's going on?","Tell me more.","Go ahead."],
+  	"neutralNo": ["Nope.","Ain't happening.","Not a chance."],
+  	"neutralYes": ["Sure thing.","You bet.","Absolutely."],
+  
+  	"hateHello": "What do you want now?",
+  	"hateLetsHearIt": ["Spit it out.","What is it?","Go on."],
+  	"hateNo": ["No way!","Forget it!","Not gonna happen."],
+  	"hateYes": ["Fine.","Alright then.","If I must..."],
+  
+  	"afterPeace": "A smart decision.",
+  	"tradeRequest": "You know it's a good deal.",
+  
+  	"outerColor": [0, 128, 0],  // A random green color
+  	"innerColor": [255, 255, 255],  // A contrasting white color
+  	"uniqueName": "Heart of Dixie",
+  	"uniques": ["[+2 Food] from every [Farm]", "[+1 Production] from every [City with a Mine]", "Starts with [Agriculture]", "Starts with [Mining]"],
+  	"cities": [
+  		"Birmingham",
+  		"Montgomery",
+  		"Mobile",
+  		"Huntsville",
+  		"Tuscaloosa",
+  		"Hoover",
+  		"Dothan",
+  		"Auburn",
+  		"Decatur",
+  		"Madison",
+  		"Florence",
+  		"Gadsden",
+  		"Vestavia Hills",
+  		"Prattville",
+  		"Phenix City",
+  		"Alabaster",
+  		"Bessemer",
+  		"Enterprise",
+  		"Opelika",
+  		"Homewood"
+  	]
+  },
+  {
+	"name": "Arkansas",
+	"leaderName": "Bill Clinton",
+	"adjective": ["Arkansan"],
+	"startBias": ["Forest"],
+	"preferredVictoryType": "Diplomatic",
+
+	"startIntroPart1": "Hey there",
+	"startIntroPart2": "Welcome to the Natural State!",
+
+	"declaringWar": "You've picked the wrong fight!",
+	"attacked": "Arkansas will stand strong.",
+	"defeated": "We'll rise again...",
+	"introduction": "Greetings from the Natural State.",
+
+	"neutralHello": "Howdy.",
+	"neutralLetsHearIt": ["What's the word?","Tell me more.","Go ahead."],
+	"neutralNo": ["Nope.","Not happening.","I don't think so."],
+	"neutralYes": ["Sure thing.","Absolutely.","You got it."],
+
+	"hateHello": "What do you want?",
+	"hateLetsHearIt": ["Spit it out.","What now?","Go on."],
+	"hateNo": ["No chance!","Forget about it!","Not a chance."],
+	"hateYes": ["Fine.","Alright then.","If I must..."],
+
+	"afterPeace": "A wise choice.",
+	"tradeRequest": "You know it's a good deal.",
+
+	"outerColor": [0, 123, 255],  // A random blue color
+	"innerColor": [255, 0, 0],  // A contrasting red color
+	"uniqueName": "The Natural State",
+	"uniques": ["[+2 Production] from every [City with a Forest]", "[+1 Happiness] from every [City with a National Park]", "Starts with [Forestry]", "Starts with [Agriculture]"],
+	"cities": [
+		"Little Rock",
+		"Fort Smith",
+		"Fayetteville",
+		"Springdale",
+		"Jonesboro",
+		"North Little Rock",
+		"Conway",
+		"Rogers",
+		"Bentonville",
+		"Pine Bluff",
+		"Hot Springs",
+		"Benton",
+		"Texarkana",
+		"Russellville",
+		"Jacksonville",
+		"West Memphis",
+		"Paragould",
+		"Searcy",
+		"Van Buren",
+		"El Dorado"
+	]
+},{
+	"name": "Alaska",
+	"leaderName": "Sarah Palin",
+	"adjective": ["Alaskan"],
+	"startBias": ["Tundra"],
+	"preferredVictoryType": "Expansionist",
+
+	"startIntroPart1": "Hey there",
+	"startIntroPart2": "Welcome to the Last Frontier!",
+
+	"declaringWar": "You've awoken a sleeping giant!",
+	"attacked": "We will endure!",
+	"defeated": "We'll be back...",
+	"introduction": "Greetings from the Last Frontier.",
+
+	"neutralHello": "Howdy.",
+	"neutralLetsHearIt": ["What's new?","Tell me more.","Go ahead."],
+	"neutralNo": ["No way.","Not happening.","I don't think so."],
+	"neutralYes": ["Sure thing.","Absolutely.","You got it."],
+
+	"hateHello": "What do you want?",
+	"hateLetsHearIt": ["Spit it out.","What now?","Go on."],
+	"hateNo": ["No chance!","Forget it!","Not a chance."],
+	"hateYes": ["Fine.","Alright then.","If I must..."],
+
+	"afterPeace": "A wise choice.",
+	"tradeRequest": "You know it's a good deal.",
+
+	"outerColor": [0, 0, 255],  // A random blue color
+	"innerColor": [255, 255, 255],  // A contrasting white color
+	"uniqueName": "The Last Frontier",
+	"uniques": ["[+2 Production] from every [City with a Harbor]", "[+1 Happiness] from every [City with a Natural Wonder]", "Starts with [Fishing]", "Starts with [Animal Husbandry]"],
+	"cities": [
+		"Anchorage",
+		"Fairbanks",
+		"Juneau",
+		"Sitka",
+		"Ketchikan",
+		"Wasilla",
+		"Kenai",
+		"Kodiak",
+		"Bethel",
+		"Palmer",
+		"Homer",
+		"Nome",
+		"Valdez",
+		"Soldotna",
+		"Seward",
+		"Wrangell",
+		"Barrow",
+		"Unalaska",
+		"Petersburg",
+		"Cordova"
+	]
+}
+
+
 ]
